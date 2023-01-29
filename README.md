@@ -1,6 +1,8 @@
 # Deploying an Amazon Redshift Cluster in AWS with Terraform
 [![Terraform](https://img.shields.io/badge/terraform-v1.3+-blue.svg)](https://www.terraform.io/downloads.html)
 
+Blog Post --> https://gmusumeci.medium.com/how-to-deploy-an-aws-redshift-cluster-using-terraform-87642b1a8640
+
 ## Code creates:
 
 * AWS Credentials
